@@ -24,10 +24,6 @@ To get started with Reported.lol remake, follow these steps:
 * and open the .sln file
 then ur ready to go
 
-Acknowledgments 🙏
-
-I'd like to thank  for their support and guidance throughout this project.
-
 License 📜
 
 Reported.lol is licensed under their copyright, I dont wanna do anything bad to them and this was only made for fun.
