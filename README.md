@@ -8,7 +8,7 @@ Reported.lol is a TEMP HWID spoofer. I've recreated the interface to provide a c
 
 Getting Started 🚀
 
-If you're interested in using the Reported.lol remake for ur own spoofer, please note that you'll need to add your own protection and spoofer drivers 🔒💻. This is a requirement to ensure the security and integrity of the project.
+If you're interested in using the Reported.lol remake for ur own spoofer, please note that you'll need to add your own protection and spoofer drivers 🔒💻. This is a requirement to ensure the security and integrity of YOUR project.
 
 Important Note 📝
 
