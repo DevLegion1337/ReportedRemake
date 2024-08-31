@@ -1,4 +1,4 @@
-Welcome to Reported.lol! 🎉
+Welcome to the Remake! 🎉
 
 Hello, I am 2fine aka Legion 👋, and I'm thrilled to introduce you to my recreation of the Reported.lol interface 🤔. This project is a labor of love, and I'm excited to share it with the community 🤝.
 
@@ -35,3 +35,8 @@ Reported.lol is licensed under their copyright, I dont wanna do anything bad to 
 Enjoy! 😄
 
 I hope you enjoy using interface, Don't hesitate to reach out if you have any questions or need help 🤝. Happy coding! 💻
+
+
+Pictures of it :
+![forreadme](https://github.com/user-attachments/assets/f49dd258-ad0b-458d-8168-143e490f1e80)
+![4314134134](https://github.com/user-attachments/assets/3d833ae7-2e3e-473c-b7e6-21c04966125b)
